@@ -1,0 +1,22 @@
+Code Editors:-
+
+A code editor is where developers write and manage code.
+Editors are of two kinds:
+IDEs (Integrated Development Environments)
+Powerful, project-level tools with debugging, autocompletion, version control etc.
+
+Popular IDEs:
+Visual Studio Code (VS Code) – Free, cross-platform
+WebStorm – Paid, powerful
+Visual Studio Community (Windows) – Good for .NET + JS
+
+Lightweight Editors
+Fast, simple editors mainly used for single files.
+
+Examples:
+Sublime Text
+Notepad++
+Vim / Emacs
+IDE = Project-level powerful tool
+Lightweight = Quick file editing
+Choose based on project and personal preference.
