@@ -1,0 +1,16 @@
+1.2 – Manuals and Specifications
+
+JavaScript is standardized by ECMA-262, which defines how the language works.
+A new version is released every year, and the latest draft is available at tc39.es/ecma262.
+
+Important Resources
+MDN Web Docs → Best for everyday learning and examples
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
+TC39 Proposals → Upcoming JS features (Stage 0–4)
+https://github.com/tc39/proposals
+
+Compatibility Tables
+https://caniuse.com → Browser support
+https://kangax.github.io/compat-table → JS feature support
+These resources help developers understand specifications, new features, and browser compatibility.
