@@ -1,0 +1,12 @@
+1.1 – Introduction to JavaScript
+
+JavaScript is a high-level, dynamic programming language used to make web pages interactive.
+It was created by Brendan Eich in 1995 and today runs both in the browser and on servers (Node.js).
+
+Key Points:
+
+Runs through engines like V8 (Chrome) and SpiderMonkey (Firefox).
+
+Supports multiple styles: object-oriented, functional, imperative.
+
+Controls dynamic behavior such as UI updates, animations, events, API calls etc.
