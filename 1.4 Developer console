@@ -1,0 +1,16 @@
+Developer Console:-
+
+Browsers include developer tools to view errors and test JavaScript.
+How to Open DevTools
+Chrome / Edge / Firefox (Windows): F12
+Chrome (Mac): Cmd + Option + J
+Safari: Enable “Develop Menu” → Cmd + Option + C
+
+What It Provides:-
+Shows JavaScript errors
+Lets you run commands
+Allows inspection of variables
+Helps debug code with breakpoints
+
+Tip:
+Use Shift + Enter for multi-line input in console.
