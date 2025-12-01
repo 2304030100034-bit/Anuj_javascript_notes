@@ -1,0 +1,11 @@
+"use strict";
+x=10;
+console.log(x);  //show error: x is not defined. 
+
+"use strict";
+var a=5;
+var a=10; // syntaxError: Duplicate declaration.
+
+"use strict";
+function test(a,a) { //error in strict mode.
+console.log(a);
